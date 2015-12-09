@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.thestratagemmc.aikenbot.providers.skype.SkypeAikenBot
+Class-Path: AikenBot.jar lib/guava.jar lib/skype-java-api.jar
+
